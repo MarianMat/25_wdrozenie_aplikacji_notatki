@@ -4,3 +4,4 @@ qdrant-client
 streamlit
 audiorecorder
 pydub
+pyaudio
