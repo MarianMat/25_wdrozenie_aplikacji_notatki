@@ -6,6 +6,7 @@ from hashlib import md5
 from openai import OpenAI
 from qdrant_client import QdrantClient
 from qdrant_client.models import PointStruct, Distance, VectorParams
+import pyaudio
 
 
 env = dotenv_values(".env")
